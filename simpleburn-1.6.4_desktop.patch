@@ -1,0 +1,10 @@
+--- simpleburn-1.6.4/src/simpleburn.desktop~	2012-02-25 14:41:07.000000000 +0000
++++ simpleburn-1.6.4/src/simpleburn.desktop	2012-05-27 17:46:33.353281283 +0000
+@@ -5,6 +5,6 @@
+ Name=SimpleBurn
+ Comment=CD / DVD burning and extraction
+ 
+-Categories=AudioVideo
++Categories=AudioVideo;
+ Exec=simpleburn
+ Icon=simpleburn
