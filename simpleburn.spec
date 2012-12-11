@@ -44,3 +44,10 @@ rm -rf %{buildroot}/usr/doc/
 %{_datadir}/%{name}*
 %{_datadir}/pixmaps/*.png
 
+
+
+%changelog
+* Sun May 27 2012 Matthew Dawkins <mattydaw@mandriva.org> 1.6.4-1
++ Revision: 800832
+- imported package simpleburn
+
