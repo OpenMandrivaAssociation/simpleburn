@@ -1,4 +1,4 @@
-Summary:	SimpleBurn is a basic burning tool for CDs and DVDs
+Summary:	Basic burning tool for CDs and DVDs
 Name:		simpleburn
 Version:	1.6.4
 Release:	1
