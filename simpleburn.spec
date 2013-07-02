@@ -1,3 +1,5 @@
+%define debug_package %{nil}
+
 Summary:	Basic burning tool for CDs and DVDs
 Name:		simpleburn
 Version:	1.6.4
