@@ -3,7 +3,7 @@
 Summary:	Basic burning tool for CDs and DVDs
 Name:		simpleburn
 Version:	1.6.4
-Release:	2
+Release:	3
 Group:		Archiving/Cd burning
 License:	CeCILL
 URL:		http://simpleburn.tuxfamily.org/
