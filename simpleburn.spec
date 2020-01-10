@@ -23,7 +23,7 @@ SimpleBurn is a basic burning application for CDs and DVDs.
 
 %prep
 %setup -q
-%apply_patches
+%autopatch -p1
 
 %build
 export CFLAGS="$CFLAGS -lm"
