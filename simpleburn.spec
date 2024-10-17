@@ -6,7 +6,7 @@ Version:	1.6.4
 Release:	3
 Group:		Archiving/Cd burning
 License:	CeCILL
-URL:		http://simpleburn.tuxfamily.org/
+URL:		https://simpleburn.tuxfamily.org/
 Source0:	http://simpleburn.tuxfamily.org/IMG/bz2/%{name}-%{version}.tar.bz2
 Patch0:		simpleburn-1.6.4_desktop.patch
 
