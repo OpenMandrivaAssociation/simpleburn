@@ -2,13 +2,13 @@
 
 Summary:	Basic burning tool for CDs and DVDs
 Name:		simpleburn
-Version:	1.6.4
-Release:	3
+Version:	1.8.4
+Release:	1
 Group:		Archiving/Cd burning
 License:	CeCILL
 URL:		https://simpleburn.tuxfamily.org/
 Source0:	http://simpleburn.tuxfamily.org/IMG/bz2/%{name}-%{version}.tar.bz2
-Patch0:		simpleburn-1.6.4_desktop.patch
+Patch0:		simpleburn-1.8.4_desktop.patch
 
 BuildRequires:	cmake
 BuildRequires:	pkgconfig(gtk+-2.0)

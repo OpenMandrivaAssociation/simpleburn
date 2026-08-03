@@ -1,0 +1,8 @@
+--- a/src/simpleburn.desktop
++++ b/src/simpleburn.desktop
+@@ -7,4 +7,4 @@
+ Icon=simpleburn
+ Type=Application
+ StartupNotify=true
+-Categories=DiscBurning;AudioVideo;
++Categories=AudioVideo;DiscBurning;
